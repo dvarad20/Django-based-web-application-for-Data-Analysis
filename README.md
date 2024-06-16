@@ -113,8 +113,12 @@ csv_analysis_project/
 - Pandas: https://pandas.pydata.org/
 - NumPy: https://numpy.org/
 - Matplotlib: https://matplotlib.org/
+
 - Seaborn: https://seaborn.pydata.org/
 ```
 
 
 ```
+## Web Application Screen
+![Screenshot (286)](https://github.com/dvarad20/Django-based-web-application-for-Data-Analysis/assets/157035521/18142695-9d59-409b-8f23-38a97c40865a)
+![Screenshot (287)](https://github.com/dvarad20/Django-based-web-application-for-Data-Analysis/assets/157035521/cb1f8ca1-be8c-4ffc-90a5-2d224e16c3fb)
