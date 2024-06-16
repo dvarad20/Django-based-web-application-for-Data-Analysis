@@ -24,7 +24,6 @@ This is a Django-based web application that allows users to upload CSV files, pe
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/csv_analysis_project.git
     cd csv_analysis_project
     ```
 
@@ -36,7 +35,8 @@ This is a Django-based web application that allows users to upload CSV files, pe
 
 3. **Install dependencies**:
     ```bash
-    pip install -r requirements.txt
+    pip install django
+    pip install pandas numpy matplotlib seaborn
     ```
 
 4. **Apply migrations**:
